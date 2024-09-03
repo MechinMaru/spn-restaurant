@@ -1,0 +1,174 @@
+{
+  "description": "",
+  "items": [
+    {
+      "name": "กุ้งทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ปลาหมึกทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ปลาช่อนทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ปลากระพงทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ปลาแดงทอด",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "หมูทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "หมูกรอบทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "กระเพาะหมูทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ไส้ตันทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ไก่ทอดกระเทียม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "กุ้งชุปแป้งทอด",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "หมึกชุปแป้งทอด",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "หมูชุปแป้งทอด",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ไก่ชุปแป้งทอด",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "หอยจ๊อทอด",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "แหนมซี่โครงทอด",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "หมูสับหนำเลียบ",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "หมูสับไข่เค็ม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ปลาหมึกไข่เค็ม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+
+    {
+      "name": "ไข่เจียวหมูสับ",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ไข่เจียวกุ้งสับ",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ไข่เจียวมะระ",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ไข่เจียวไชโป้",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ไข่ดาว",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    }
+  ]
+}

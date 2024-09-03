@@ -1,0 +1,165 @@
+{
+  "description": "",
+  "items": [
+    {
+      "name": "ยำกุ้งสด",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำปลาหมึก",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำรวมมิตรทะเล",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำหมูยอ",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำไส้ตัน",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำวุ้นเส้นหมูสับ",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำแหนม",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำผักกระเฉด",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำมะระกุ้งสด",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำกุนเฉียง",
+      "food_type": "SALAD",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำไข่เค็มกุ้งแห้ง",
+      "food_type": "SALAD",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำไข่เยี่ยวม้ากุ้งแห้ง",
+      "food_type": "SALAD",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ยำปลาเค็ม",
+      "food_type": "SALAD",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ลาบหมู",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ลาบไก่",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ลาบกุ้ง",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ลาบปลาหมึก",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ลาบปลากระพง(ชิ้น, สับ)",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "พล่ากุ้ง",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "พล่าปลาหมึก",
+      "food_type": "SALAD",
+      "isSpicy": true,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    }
+  ]
+}

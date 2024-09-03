@@ -1,0 +1,123 @@
+{
+  "description": "***เนื้อสัตว์(หมู, หมูกรอบ, ไก่, เครื่องในไก่, กุ้ง, ปลาหมึก, ปลาช่อน, ปลากะพง)\nราคาขึ้นอยู่กับเนื้อสัตว์ที่เลือกนะคะ***",
+  "items": [
+    {
+      "name": "ข้าวผัดกุ้ง",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวผัดปลาหมึก",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวผัดหมู",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวผัดไก่",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวผัดกุนเชียง",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวหมูซีอิ๊ว",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "ข้าวหมูเทียม",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวไข่เจียวหมูสับ",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวไข่เจียวกุ้งสับ",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวไข่เจียว",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวกระเพาหมูสับ",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวคะน้าหมูกรอบ",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวราดผัดผัก",
+      "food_type": "SINGLE_DISH",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ราดหน้า",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "โกยซี่หมี่",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    }
+  ]
+}

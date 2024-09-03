@@ -1,0 +1,19 @@
+{
+  "description": "",
+  "items": [
+    {
+      "name": "ข้าวสวย",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ข้าวต้ม",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    }
+  ]
+}

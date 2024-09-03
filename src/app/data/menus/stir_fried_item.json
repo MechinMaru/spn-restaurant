@@ -1,0 +1,165 @@
+{
+  "description": "***เนื้อสัตว์(หมู, หมูกรอบ, ไก่, เครื่องในไก่, กุ้ง, ปลาหมึก, ปลาช่อน, ปลากะพง)\nราคาขึ้นอยู่กับเนื้อสัตว์ที่เลือกนะคะ***",
+  "items": [
+    {
+      "name": "ผัดกุยช่ายขาว",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "ผัดดอกกะหล่ำ",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดกะหล่ำปลี",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดคะน้า",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดผักกาดขาว",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดผักบุ้ง",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดผักกระเฉด",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดบร็อคโคลี่",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดมะเขือยาว",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "ผัดเห็ดฟาง",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดผักรวมมิตร",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดหน่อไม้ฝรั่ง",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดโป๊ยเซียน",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดแขนง",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดขิง",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดกระเพรา",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": true
+    },
+    {
+      "name": "ผัดขี้เมา",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดพริกเผา",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดพริกหยวก",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    },
+    {
+      "name": "ผัดพริกแกง",
+      "food_type": "STIR_FRIED",
+      "isSpicy": false,
+      "description": "",
+      "price": "",
+      "isReccommend": false
+    }
+  ]
+}

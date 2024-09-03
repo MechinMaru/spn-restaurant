@@ -1,6 +1,6 @@
-import Colors from "@/app/constants/Color";
-import TextStyles from "@/app/constants/TextStyles";
 import MenuButton from "@/components/MenuButton";
+import Colors from "@/constants/Color";
+import TextStyles from "@/constants/TextStyles";
 import React from "react";
 
 type Props = {};

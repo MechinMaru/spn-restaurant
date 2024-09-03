@@ -1,6 +1,6 @@
-import Colors from "@/app/constants/Color";
-import TextStyles from "@/app/constants/TextStyles";
 import MenuInfo from "@/components/MenuInfo";
+import Colors from "@/constants/Color";
+import TextStyles from "@/constants/TextStyles";
 import { FoodItem } from "@/ts/foods";
 import React from "react";
 

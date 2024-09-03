@@ -1,8 +1,8 @@
 "use client";
 
-import Colors from "@/app/constants/Color";
+import Colors from "@/constants/Color";
+import TextStyles from "@/constants/TextStyles";
 import React from "react";
-import TextStyles from "@/app/constants/TextStyles";
 
 type Props = {
   title: string;

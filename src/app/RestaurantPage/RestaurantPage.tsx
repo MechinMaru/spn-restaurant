@@ -1,15 +1,16 @@
 import HeaderSection from "@/sections/HeaderSection";
 import MenuSection from "@/sections/MenuSection";
 import React from "react";
-import todayMenuData from "../data/menus/today_item.json";
-import soupData from "../data/menus/soup_item.json";
-import friedData from "../data/menus/fried_item.json";
-import saladData from "../data/menus/salad_item.json";
-import stirFriedData from "../data/menus/stir_fried_item.json";
-import singleDishData from "../data/menus/single_dish_item.json";
-import otherData from "../data/menus/other_item.json";
+
+import todayMenuData from "@/data/menus/today_item.json";
+import soupData from "@/data/menus/soup_item.json";
+import friedData from "@/data/menus/fried_item.json";
+import saladData from "@/data/menus/salad_item.json";
+import stirFriedData from "@/data/menus/stir_fried_item.json";
+import singleDishData from "@/data/menus/single_dish_item.json";
+import otherData from "@/data/menus/other_item.json";
 import FooterSection from "@/sections/FooterSection";
-import Colors from "../constants/Color";
+import Colors from "@/constants/Color";
 type Props = {};
 
 const RestaurantPage: React.FC<Props> = ({}) => {
@@ -48,7 +49,7 @@ const RestaurantPage: React.FC<Props> = ({}) => {
       >
         <MenuSection
           headerTitle="เมนูวันนี้"
-          description={todayMenuData.description}
+          description={today_menu.description}
           foodItemList={today_menu.items}
         ></MenuSection>
 

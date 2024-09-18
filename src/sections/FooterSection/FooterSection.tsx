@@ -41,7 +41,7 @@ const FooterSection: React.FC<Props> = () => {
           }}
         >
           <img
-            src={"/images/ic_clock.png"}
+            src={"images/ic_clock.png"}
             alt="icon_clock"
             width={24}
             height={24}
@@ -56,7 +56,7 @@ const FooterSection: React.FC<Props> = () => {
           }}
         >
           <img
-            src={"/images/ic_phone.png"}
+            src={"images/ic_phone.png"}
             alt="icon_phone"
             width={24}
             height={24}

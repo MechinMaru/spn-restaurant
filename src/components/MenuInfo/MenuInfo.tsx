@@ -35,7 +35,7 @@ const MenuInfo: React.FC<Props> = ({
       >
         {isReccommend ? (
           <img
-            src={"/images/ic_thumbs_up.png"}
+            src={"images/ic_thumbs_up.png"}
             alt="icon_thumbs_up"
             width={24}
             height={24}
@@ -69,7 +69,7 @@ const MenuInfo: React.FC<Props> = ({
           </text>
           {isSpicy ? (
             <img
-              src={"/images/ic_chili_pepper.png"}
+              src={"images/ic_chili_pepper.png"}
               alt="icon_chili"
               width={20}
               height={20}

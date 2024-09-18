@@ -28,7 +28,7 @@ const HeaderSection: React.FC<Props> = () => {
           gap: "20px",
         }}
       >
-        <img src={"/images/spn_logo.png"} alt="logo" width={200} height={200} />
+        <img src={"images/spn_logo.png"} alt="logo" width={200} height={200} />
 
         <text
           style={{

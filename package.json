@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out",
+    "deploy": "gh-pages -d out --nojekyll --cname mechinmaru.github.io/spn-restaurant/",
     "start": "next start",
     "lint": "next lint",
     "storybook": "storybook dev -p 6006",
